@@ -37,7 +37,7 @@ Em busca de oportunidades para aplicar meus conhecimentos e crescer na área de 
 
 ## 🌐 Minhas redes:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nelsonreisgomes/])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonreisgomes)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsondosreisgomessouza@gmail.com)
 
 ---
