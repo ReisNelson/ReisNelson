@@ -26,7 +26,6 @@ Em busca de oportunidades para aplicar meus conhecimentos e crescer na área de 
 <!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
----
 
 ## 📈 GitHub Stats
 
