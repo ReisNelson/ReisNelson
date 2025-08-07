@@ -25,7 +25,7 @@ Gosto de aprender tecnologias novas e resolver problemas com código. 🚀
 
   <div>
     <img
-      src="https://raw.githubusercontent.com/ReisNelson/assets/main/Good%20Boy%20-%20Imgur.jpg"
+      src="assets/Good Boy - Imgur.jpg"
       alt="Dog Picture"
       height="300"
     />
