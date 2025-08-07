@@ -1,45 +1,75 @@
-# 👋 Olá, eu sou o Nelson!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [FECAP](https://www.fecap.br)  
+# Hello, im Nelson!
+  <br>
 
-Apaixonado por tecnologia, resolução de problemas e aprendizado contínuo  
-Em busca de oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=ReisNelson&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReisNelson&layout=compact&font=Iosevka&langs_count=16&theme=dark"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReisNelson&theme=dark"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Languages"
+    src="https://github-readme-streak-stats.herokuapp.com?user=ReisNelson&theme=dark&card_width=885"
+  />
+  </div>
 
----
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
+</div>
 
-## 🛠️ Tecnologias que estou aprendendo
-<p align="center">
-<!-- C# -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-<!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<!-- CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<!-- Java -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<!-- React -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<!-- MySQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
+<br>
 
-## 📈 GitHub Stats
+##
 
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReisNelson&show_icons=true&theme=dracula&count_private=true)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReisNelson&layout=compact&theme=dracula)
+<div align="center">
+  <samp>
+    <b>
+      Minhas Redes:
+    </b>
+  </samp>
+  <br>
+  <br>
 
----
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=fffff)](mailto:nelsondosreisgomessouza@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nelsonreisgomes/)
+  
+</div>
 
-## 🌐 Minhas redes:
+<div align=">
+  
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonreisgomes)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsondosreisgomessouza@gmail.com)
 
----
+<br>
+<br>
 
-> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=100&section=footer"/>
