@@ -2,8 +2,8 @@
 
 <p> Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de soluções eficientes e escaláveis. Estou em constante aprendizado, aprimorando minhas habilidades em programação, bancos de dados e boas práticas de desenvolvimento.
 
-🔹 Áreas de interesse: Desenvolvimento web, automação de processos e arquitetura de sistemas.
-🔹 Objetivo: Consolidar conhecimento técnico para atuar como desenvolvedor e contribuir em projetos inovadores.
+🔹 Áreas de interesse: Desenvolvimento web, automação de processos e arquitetura de sistemas.<br>
+🔹 Objetivo: Consolidar conhecimento técnico para atuar como desenvolvedor e contribuir em projetos inovadores.<br>
 🔹 Atualmente estudando: Estruturas de dados, programação orientada a objetos e integração de sistemas.
 </p>
 
