@@ -1,10 +1,11 @@
-<h1>Oi! Eu sou o Nelson </h1>
+<h1>Hi! I'm Nelson</h1>
 
-<p> Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de soluções eficientes e escaláveis. Estou em constante aprendizado, aprimorando minhas habilidades em programação, bancos de dados e boas práticas de desenvolvimento.
-
-🔹 Áreas de interesse: Desenvolvimento web, automação de processos e arquitetura de sistemas.<br>
-🔹 Objetivo: Consolidar conhecimento técnico para atuar como desenvolvedor e contribuir em projetos inovadores.<br>
-🔹 Atualmente estudando: Estruturas de dados, programação orientada a objetos e integração de sistemas.
+<p>
+I am a student of Systems Analysis and Development, focused on developing efficient and scalable solutions. I am constantly learning and improving my skills in programming, databases, and software development best practices.
+<br><br>
+🔹 Areas of interest: Web development, process automation, and system architecture.<br>
+🔹 Goal: To strengthen my technical knowledge to work as a developer and contribute to innovative projects.<br>
+🔹 Currently learning: Data structures, object-oriented programming, and system integration.
 </p>
 
 <!-- Skills -->
@@ -27,11 +28,9 @@
 
 <!-- Contatos -->
 <div>
-  <samp>
     <b>
-      Minhas Redes:
+      Contact me!
     </b>
-  </samp>
   <br>
   <br>
 
