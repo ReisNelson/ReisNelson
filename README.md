@@ -34,7 +34,7 @@ I am a student of Systems Analysis and Development, focused on developing effici
   <br>
   <br>
 
-  <a href="mailto:nelsondosreisgomessouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nelsondosreisgomessouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a> <br>
   <a href="https://www.linkedin.com/in/nelsonreisgomes/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
