@@ -1,12 +1,11 @@
 <h1>Oi! Eu sou o Nelson </h1>
 
-<div align="center">
-  <img
-    height=154
-    alt="Skills"
-    src="https://github-readme-streak-stats.herokuapp.com?user=ReisNelson&theme=dark&card_width=885"
-  />
-</div>
+<p> Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de soluções eficientes e escaláveis. Estou em constante aprendizado, aprimorando minhas habilidades em programação, bancos de dados e boas práticas de desenvolvimento.
+
+🔹 Áreas de interesse: Desenvolvimento web, automação de processos e arquitetura de sistemas.
+🔹 Objetivo: Consolidar conhecimento técnico para atuar como desenvolvedor e contribuir em projetos inovadores.
+🔹 Atualmente estudando: Estruturas de dados, programação orientada a objetos e integração de sistemas.
+</p>
 
 <!-- Skills -->
 <div align="center" style="display: inline_block"><br>
@@ -27,7 +26,7 @@
 <br>
 
 <!-- Contatos -->
-<div align="center">
+<div>
   <samp>
     <b>
       Minhas Redes:
@@ -37,7 +36,6 @@
   <br>
 
   <a href="mailto:nelsondosreisgomessouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=fffff" /></a>
-  
   <a href="https://www.linkedin.com/in/nelsonreisgomes/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
 </div>
 
