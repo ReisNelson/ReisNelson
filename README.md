@@ -1,38 +1,9 @@
-<h1 align="center">Oi! Eu sou o Nelson </h1>
-
-<div align="center">
-  <img
-    height="165"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=ReisNelson&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"
-  />
-  <img
-    height="165"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReisNelson&layout=compact&font=Iosevka&langs_count=16&theme=dark"
-  />
-</div>
-
-<br>
-
-
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
-
-  <img
-    align="center"
-    alt="Resumo do Perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReisNelson&theme=dark"
-    height="280"
-  />
-</div>
-
-<br>
+<h1>Oi! Eu sou o Nelson </h1>
 
 <div align="center">
   <img
     height=154
-    align="center"
-    alt="Languages"
+    alt="Skills"
     src="https://github-readme-streak-stats.herokuapp.com?user=ReisNelson&theme=dark&card_width=885"
   />
 </div>
