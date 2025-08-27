@@ -27,7 +27,7 @@ I am a student of Systems Analysis and Development, focused on developing effici
 <br>
 
 <!-- Contatos -->
-<div>
+<div align="center">
     <b>
       Contact me!
     </b>
