@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=808080&section=header"/>
 <h1>Hello! My name's Nelson Reis!</h1>
 
 <p>
