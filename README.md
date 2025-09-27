@@ -3,10 +3,6 @@
 
 <p>
 I am a student of Systems Analysis and Development, focused on developing efficient and scalable solutions. I am constantly learning and improving my skills in programming, databases, and software development best practices.
-<br><br>
-🔹 Areas of interest: Web development, process automation, and system architecture.<br>
-🔹 Goal: To strengthen my technical knowledge to work as a developer and contribute to innovative projects.<br>
-🔹 Currently learning: Data structures, object-oriented programming, and system integration.
 </p>
 
 <!-- Skills -->
