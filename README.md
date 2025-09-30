@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&colorGradient=true&color=0:b17628,25:782b1c,50:b11c1c,75:782b4f,100:3e235d&section=header"/>
+
 <h1>Hello! My name's Nelson Reis!</h1>
 
 <p>
@@ -39,4 +39,4 @@ I am a student of Systems Analysis and Development, focused on developing effici
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&colorGradient=true&color=0:b17628,25:782b1c,50:b11c1c,75:782b4f,100:3e235d&section=footer"/>
+
